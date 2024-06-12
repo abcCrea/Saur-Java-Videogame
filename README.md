@@ -20,4 +20,6 @@
   Download only the game:
   For last, you can download a portable or executable Windows game ready for play, intead of work with the code
   Download the game of this page: https://abc-crea.itch.io/saur
+
   
+![Cambio Ventiladores](https://github.com/abcCrea/Saur-Java-Videogame/assets/144490810/67b7b74f-3ab5-4e6c-bad8-9f22d7d6accb)

@@ -1,6 +1,6 @@
   NetBeans Project developed with Java language
   
-  ![Saur2](https://github.com/abcCrea/Saur-Java-Videogame/assets/144490810/e13a88e4-6c75-4e08-b9b1-f3aff8140558)
+  ![SaurLite](https://github.com/abcCrea/Saur-Java-Videogame/assets/144490810/530b3693-9b36-429d-94da-75789eef2a75)
 
   Developed for abc Crea - Oscar Eduardo Ochoa Velasco
 
@@ -20,7 +20,6 @@
   The displacement velocity of the objects will be increase each 5 points, so the "tempo" variable will be decrease for do this
 
   ![image](https://github.com/abcCrea/Saur-Java-Videogame/assets/144490810/9e6aad6e-85c2-4dc2-b3ae-cb67991a7e86)
-
 
   Download only the game:
   For last, you can download a portable or executable Windows game ready for play, intead of work with the code

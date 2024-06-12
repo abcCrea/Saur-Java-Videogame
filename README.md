@@ -1,5 +1,7 @@
   NetBeans Project developed with Java language
   
+  ![Saur2](https://github.com/abcCrea/Saur-Java-Videogame/assets/144490810/e13a88e4-6c75-4e08-b9b1-f3aff8140558)
+
   Developed for abc Crea - Oscar Eduardo Ochoa Velasco
 
   Instructions for play the videogame:
@@ -17,6 +19,12 @@
   To less value you put, more fast will be the displacement of the objects and the difficult curve will be inrease
   The displacement velocity of the objects will be increase each 5 points, so the "tempo" variable will be decrease for do this
 
+  ![image](https://github.com/abcCrea/Saur-Java-Videogame/assets/144490810/9e6aad6e-85c2-4dc2-b3ae-cb67991a7e86)
+
+
   Download only the game:
   For last, you can download a portable or executable Windows game ready for play, intead of work with the code
   Download the game of this page: https://abc-crea.itch.io/saur
+
+  https://github.com/abcCrea/Saur-Java-Videogame/assets/144490810/454af8de-d557-47b9-81b1-f23da50ab242
+

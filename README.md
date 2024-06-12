@@ -1,6 +1,6 @@
   NetBeans Project developed with Java language
-  
-  ![SaurLite](https://github.com/abcCrea/Saur-Java-Videogame/assets/144490810/530b3693-9b36-429d-94da-75789eef2a75)
+
+  ![SaurLite](https://github.com/abcCrea/Saur-Java-Videogame/assets/144490810/05b9bc1f-e494-422b-9c29-8c0f7a63b3b4)
 
   Developed for abc Crea - Oscar Eduardo Ochoa Velasco
 
